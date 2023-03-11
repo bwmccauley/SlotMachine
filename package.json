@@ -1,0 +1,22 @@
+{
+  "name": "slotmachine",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwmccauley/SlotMachine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwmccauley/SlotMachine/issues"
+  },
+  "homepage": "https://github.com/bwmccauley/SlotMachine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
